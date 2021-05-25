@@ -17,14 +17,14 @@
 	}
 	.main_main {
 		
-		margin-top:90vw;
+		margin-top:60vw;
 		background-color: white;
 		width:300vw;
 		position:absolute;
 		left:0px;
 		font-family: 'Comfortaa', cursive;
 		text-align: center;
-		
+		margin-bottom:10vw;
 		
 		
 		
@@ -60,6 +60,62 @@
 		bottom:-300vh;
 		left:0px;
 		font-family: 'M PLUS Rounded 1c', sans-serif;
+		
+	}
+	.header_main {
+		
+		width:300vw;
+		height: 15vw;
+		position:absolute;
+		top:0px;
+		left:0px;
+		right:0px;
+		overflow: hidden;
+		
+		
+		
+		
+	}
+	.nav {
+		
+		background-color: white;
+		padding:10px 10px;
+		font-family: 'Comfortaa', cursive;
+		text-decoration: none;
+		color:black;
+		
+		
+		
+	}
+	#a1 {
+		
+		position: absolute;
+		top:15vw;
+		
+		
+		
+	}
+	#a2 {
+		
+		position:absolute;
+		top:24vw;
+		
+		
+	}
+	#a3 {
+		
+		position:absolute;
+		top:33vw;
+		
+		
+	}
+	.header_main:hover {
+		
+		height:42vw;
+		margin-bottom:50vw;
+		transition:2s;
+		
+		
 		
 	}
 	
@@ -310,4 +366,11 @@ h2 {
 	
 	
 }
+	.mem {
+		
+		font-family: 'Comfortaa', cursive;
+		
+		
+		
+	}
 }
