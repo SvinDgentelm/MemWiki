@@ -5,6 +5,72 @@
 
 
 
+@media (min-width: 320px) {
+	
+	body{
+		
+		
+		background:url(dark-grunge-texture.jpg);
+		
+		
+		
+	}
+	.main_main {
+		
+		margin-top:90vw;
+		background-color: white;
+		width:300vw;
+		position:absolute;
+		left:0px;
+		font-family: 'Comfortaa', cursive;
+		text-align: center;
+		
+		
+		
+		
+	}
+	.yes {
+		
+		width:100vw;
+		
+		
+		
+		
+	}
+	.header_main {
+		
+		background-color:white;
+		margin-bottom:50vw;
+		width:100vw;
+		height: 10vw;
+		
+		
+	}
+	.cry {
+		
+		width:100vw;
+		
+		
+	}
+	footer {
+		
+		background-color: white;
+		width:300vw;
+		position: absolute;
+		bottom:-300vh;
+		left:0px;
+		font-family: 'M PLUS Rounded 1c', sans-serif;
+		
+	}
+	
+	
+	
+	
+	
+	
+}
+@media (min-width: 1200px) {
+
 .nav:hover {
 	
 	background-color: darkgrey;
@@ -243,4 +309,5 @@ h2 {
 	
 	
 	
+}
 }
