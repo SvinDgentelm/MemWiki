@@ -91,22 +91,22 @@
 		
 		position: absolute;
 		top:15vw;
-		
-		
+		font-size: 200%;
+		margin:10px 10px;
 	}
 	#a2 {
 		
 		position:absolute;
-		top:24vw;
-		
-		
+		top:26vw;
+		font-size: 200%;
+		margin:10px 10px;
 	}
 	#a3 {
 		
 		position:absolute;
-		top:33vw;
-		
-		
+		top:35vw;
+		font-size: 200%;
+		margin: 10px 10px;
 	}
 	.header_main:hover {
 		
@@ -139,7 +139,11 @@
 		margin-bottom: 50vw;
 		
 	}
-	
+	.tik {
+		
+		font-family: 'M PLUS Rounded 1c', sans-serif;
+		
+	}
 		
 		
 	}
