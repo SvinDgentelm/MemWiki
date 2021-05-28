@@ -1,12 +1,9 @@
+@media only screen 
+  and (min-device-width: 320px) 
+  
+  and (max-device-width: 480px) 
+{
 
-
-
-
-
-
-
-@media (min-width: 320px) {
-	
 	body{
 		
 		
@@ -31,7 +28,7 @@
 	}
 	.yes {
 		
-		width:100vw;
+		width:270vw;
 		
 		
 		
@@ -48,7 +45,7 @@
 	}
 	.cry {
 		
-		width:100vw;
+		width:270vw;
 		
 		
 	}
@@ -57,7 +54,7 @@
 		background-color: white;
 		width:300vw;
 		position: absolute;
-		bottom:-300vh;
+		bottom:-400vh;
 		left:0px;
 		font-family: 'M PLUS Rounded 1c', sans-serif;
 		
@@ -86,12 +83,12 @@
 		
 		
 		
+		
 	}
 	#a1 {
 		
 		position: absolute;
 		top:15vw;
-		
 		
 		
 	}
@@ -118,15 +115,35 @@
 		
 		
 	}
-	
-	
-	
-	
+	.mem {
+		
+		margin-bottom:10vw;
+		
+		
+	}
+	.mem02 {
+		
+		margin-bottom:50vw;
+		
+	}
+	.mem10 {
+		
+		margin-bottom:50vw;
+		
+		
+	}
+	.mem21 {
+		
+		margin-bottom: 50vw;
+		
+	}
 	
 	
 }
 @media (min-width: 1200px) {
 
+	
+	
 .nav:hover {
 	
 	background-color: darkgrey;
@@ -185,6 +202,7 @@
 	position:absolute; 
 	top:-25px;
 	left:0px;
+	right:0px;
 	border-radius:10%;
 	
 	
@@ -208,6 +226,7 @@
 	
 	
 	
+	
 }
 footer {
 	
@@ -228,7 +247,7 @@ body {
 	padding-right:0vh;
 	z-index: 1;
 	background-size:cover;
-	display:flex;
+	
 	vertical-align:center;
 	
 	
