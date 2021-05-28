@@ -1,6 +1,6 @@
 @media only screen 
   and (min-device-width: 320px) 
-  
+  and (max-device-width:480px)
   
 {
 
@@ -79,10 +79,9 @@
 		
 		background-color: white;
 		padding:10px 10px;
-		font-family: 'Comfortaa', cursive;
 		text-decoration: none;
 		color:black;
-		
+		font-family: 'M PLUS Rounded 1c', sans-serif;
 		
 		
 		
@@ -141,8 +140,12 @@
 		
 	}
 	
+		
+		
+	}
 	
-}
+	
+
 @media (min-width: 1200px) {
 
 	
@@ -161,7 +164,7 @@
 	padding:15px 15px;
 	border-radius: 10%;
 	background-color:gray;
-	font-family: 'Comfortaa', cursive;
+	font-family: 'M PLUS Rounded 1c', sans-serif;
 	color:black;
 	text-decoration: none;
 	
@@ -271,8 +274,7 @@ h3 {
 }
 
 h1 {
-	height: 15vh;
-	width:40vw;
+	
 	font-family: 'Amatic SC', cursive;
 	position:absolute;
 	left:10vh;
@@ -395,4 +397,16 @@ h2 {
 		
 		
 	}
+	#gif {
+		height: 50vh;
+		margin-top:10vw;
+
+}
+	.mem10 {
+		
+		margin-left: 17vw;
+		
+		
+	}
+	
 }
