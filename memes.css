@@ -1,0 +1,23 @@
+.main_main {
+	
+	height:100vh;
+	
+	
+}
+footer {
+	
+	top:220vh;
+	position :absolute;
+}
+body {
+	
+	padding-bottom: 190vh;
+	
+}
+.pls {
+	
+	position: absolute;
+	top:70vh;
+	left:10vw;
+	
+}
