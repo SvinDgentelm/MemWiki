@@ -142,8 +142,9 @@
 	.tik {
 		
 		font-family: 'M PLUS Rounded 1c', sans-serif;
-		
+		display: inherit;
 	}
+	
 		
 		
 	}
@@ -152,7 +153,11 @@
 
 @media (min-width: 1200px) {
 
-	
+	.tik {
+		
+		display: none;
+		
+	}	
 	
 .nav:hover {
 	
