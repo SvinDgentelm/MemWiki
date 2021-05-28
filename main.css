@@ -1,7 +1,7 @@
 @media only screen 
   and (min-device-width: 320px) 
   
-  and (max-device-width: 480px) 
+  
 {
 
 	body{
@@ -22,6 +22,7 @@
 		font-family: 'Comfortaa', cursive;
 		text-align: center;
 		margin-bottom:100vw;
+		margin-top: 50vh;
 		
 		
 		
@@ -37,9 +38,9 @@
 	.header_main {
 		
 		background-color:white;
-		margin-bottom:50vw;
+		margin-bottom:90vw;
 		width:100vw;
-		height: 10vw;
+		height: 15vw;
 		
 		
 	}
@@ -85,6 +86,7 @@
 		
 		
 		
+		
 	}
 	#a1 {
 		
@@ -109,7 +111,7 @@
 	}
 	.header_main:hover {
 		
-		height:42vw;
+		height:49vw;
 		margin-bottom:50vw;
 		transition:2s;
 		
