@@ -93,24 +93,27 @@
 		top:15vw;
 		font-size: 200%;
 		margin:10px 10px;
+		left:10vw;
 	}
 	#a2 {
 		
 		position:absolute;
-		top:26vw;
+		top:15vw;
 		font-size: 200%;
 		margin:10px 10px;
+		left:120vw;
 	}
 	#a3 {
 		
 		position:absolute;
-		top:35vw;
+		top:15vw;
 		font-size: 200%;
 		margin: 10px 10px;
+		left: 220vw;
 	}
 	.header_main:hover {
 		
-		height:49vw;
+		height:55vw;
 		margin-bottom:50vw;
 		transition:2s;
 		
